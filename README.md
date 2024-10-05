@@ -1,2 +1,2 @@
 # sets
-all about sets and practice quetions 
+all about sets 
